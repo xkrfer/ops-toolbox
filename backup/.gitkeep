@@ -1,0 +1,33 @@
+# 🛠️ Ops Toolbox (在这里填你的仓库名)
+
+![Language](https://img.shields.io/badge/Language-Shell_Script-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux-orange?style=for-the-badge&logo=linux&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+> **简介**：这是一个用于服务器运维、环境搭建和自动化部署的 Shell 脚本合集。旨在简化重复性工作，实现“一行命令”快速部署。
+
+---
+
+## 📂 目录 (Contents)
+
+- [🚀 快速开始 (Quick Start)](#-快速开始-quick-start)
+- [📦 脚本列表 (Scripts)](#-脚本列表-scripts)
+- [⚙️ 环境要求 (Requirements)](#-环境要求-requirements)
+- [🤝 贡献 (Contributing)](#-贡献-contributing)
+- [📜 许可证 (License)](#-许可证-license)
+
+---
+
+## 🚀 快速开始 (Quick Start)
+
+### 方式一：克隆仓库 (推荐)
+
+```bash
+# 1. 克隆仓库
+git clone [https://github.com/你的用户名/仓库名.git](https://github.com/你的用户名/仓库名.git)
+
+# 2. 进入目录
+cd 仓库名
+
+# 3. 赋予执行权限
+chmod +x -R ./*.sh
